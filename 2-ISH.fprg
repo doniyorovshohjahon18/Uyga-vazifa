@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="10 dan 30 gacha sanash"/>
+        <attribute name="authors" value="ChatGPT"/>
+        <attribute name="about" value="Flowgorithm mashqi"/>
+        <attribute name="saved" value="2026-10-30 10:06:37 "/>
+        <attribute name="created" value="2026-10-30 00:00:00"/>
+        <attribute name="edited" value="2026-10-30 00:00:00"/>
+        <attribute name="edited" value="dXNlcjtXSU4tVjRMSUIwUk45U1E7MjAyNi0xMC0zMDsiMTA6MDY6MzcgIjsxOzI4MDY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="10" end="30" direction="inc" step="1">
+                <output expression="i" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
